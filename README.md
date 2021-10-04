@@ -1,3 +1,3 @@
-# API Key Authentication in Rails Without Devise
+# TOTP 2FA in Rails using ROTP
 
-See: https://keygen.sh/blog/how-to-implement-api-key-authentication-in-rails-without-devise/
+See: https://keygen.sh/blog/how-to-implement-totp-2fa-in-rails-using-rotp/
